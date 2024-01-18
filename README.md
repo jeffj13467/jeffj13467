@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is jeffrey Im currently learning how to code.😀 
+My name is jeffrey Im currently learning how to code. 
 Beginner level 
 CS Major 🌟
 NCC 
