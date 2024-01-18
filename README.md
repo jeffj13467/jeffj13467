@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+My name is jeffrey Im currently learning how to code.😀 
+Beginner level 
+CS Major 🌟
+NCC 
+PA🔜CA 
 <!--
 **jeffj13467/jeffj13467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
